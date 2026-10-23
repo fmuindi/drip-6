@@ -30,5 +30,5 @@ Lean365 | Dallas ENGAGE follow-up campaign, **Draft 3.0**. Theme: *Develop Your 
 - Forrest's scripts are proposed language, not verified quotations. Confirm with Forrest before recording.
 - Replace every `example.com` link and every placeholder image before the final send.
 - The Dallas enroll button links to `engage.cfalean365.com/dfw/`. That page's headline now says January 2027, but one line further down still says **late November–early December 2026**; update that line so it matches these emails.
-- The Online Cohort button links to `engage.cfalean365.com/online/`. That page says "Session dates and schedule to be confirmed", while these emails say **November 2026**. Confirm the start month before sending.
+- The Online Cohort button links to `engage.cfalean365.com/online/`. The Online Cohort starts November 2026 (confirmed); that page still says "Session dates and schedule to be confirmed".
 - The $500 Online Waste & Improvement Opportunity Analysis now lives in Email 5 (removed from Email 2 to keep it focused on the free gift).
